@@ -1,0 +1,7 @@
+1. Use the make file to generate the executable MatMult
+
+2. Paste the file pintrace.cpp in the pin/source/tools/ManualExamples folder
+
+3. make obj-intel64/pinatrace.so
+
+4. sudo ./pin -t source/tools/ManualExamples/obj-intel64/pinatrace.so -- .././MatMult < ../config_cache_LFU.txt>

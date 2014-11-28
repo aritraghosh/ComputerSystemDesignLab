@@ -1,0 +1,13 @@
+div R1 R1 R2
+add R1 R2 R2
+mul R3 R3 R1
+add R2 R1 R3
+mul R1 R1 R1
+null
+
+add R4 R0 R7
+mul R2 R0 R4
+add R4 R4 R7
+mul R7 R4 R2
+null
+
